@@ -1,4 +1,4 @@
-Advent Of Code 2023 in language C
+Advent Of Code 2023 in C language
 
 Fait entre décembre 2023 et janvier 2024 sur le site (pour avoir les sujets des différents problèmes à résoudre : https://adventofcode.com) 
 
